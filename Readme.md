@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Никита Кусов](https://up.htmlacademy.ru/javascript-individual/1/user/2388605).
-* Наставник: [Александр Сударев ].
+* Наставник: [Александр Сударев ](https://htmlacademy.ru/profile/id1152185).
 
 ---
 
